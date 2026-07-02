@@ -1,0 +1,6 @@
+jobs/
+*.tar.gz
+__pycache__/
+.pytest_cache/
+config.bat
+node_modules
